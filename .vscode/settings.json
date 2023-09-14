@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "appService.defaultWebAppToDeploy": "/subscriptions/abf9d0cd-d5ef-463e-b025-293129531206/resourceGroups/yolo-mask_group/providers/Microsoft.Web/sites/yolo-mask/subscriptions/abf9d0cd-d5ef-463e-b025-293129531206/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/yolo-mask-app",
+    "appService.deploySubpath": "."
+}
