@@ -1,0 +1,10 @@
+Pillow
+numpy
+opencv-python-headless
+tornado
+starlette
+uvicorn  
+aiohttp 
+ultralytics
+python-multipart
+omegaconf
